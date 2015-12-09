@@ -19,3 +19,6 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
+# Lib settings (useful for keeping the lib folder during the build)
+include: _lib

@@ -1,7 +1,7 @@
 ---
 title: blog
 layout: default
-permalink: /news/
+permalink: /blog/
 group: "navigation"
 weight: 1000
 ---

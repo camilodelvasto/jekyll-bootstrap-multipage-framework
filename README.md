@@ -8,3 +8,8 @@ This is just a jekyll site, so head over to [jekyllrb.com](http://jekyllrb.com/)
 
 ##Have fun!
 And please let me know if you happen to encounter issues. All silly texts are made by me and carry no significant meaning. Thanks to [this](http://stackoverflow.com/questions/8340170/jekyll-automatically-highlight-current-tab-in-menu-bar) and [this](http://stackoverflow.com/questions/9053066/sorted-navigation-menu-with-jekyll-and-liquid) for the hints on how to achieve the menu thing.
+
+##To do
+
+- Make the menu responsive
+- Improve description and footer (looks messy)
